@@ -10,7 +10,7 @@ void print(int a, float b)
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
-    std::cout << "a = " << a << " b = " << b << std::endl;
+    print(a, b);
 
     return 0;
 }
