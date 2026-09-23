@@ -1,6 +1,6 @@
 #include <iostream>
 
-int a = 5;
+int a = 84;
 float b = 10.67;
 
 void print(int a, float b)
